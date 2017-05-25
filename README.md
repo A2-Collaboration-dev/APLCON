@@ -1,3 +1,5 @@
+:red_circle: **Please use the improved wrapper [APLCONpp](https://github.com/A2-Collaboration-dev/APLCONpp).** This older implementation is discontinued and no bugfixes or support are provided anymore.
+
 [![Build status master branch](https://travis-ci.org/A2-Collaboration-dev/APLCON.svg?branch=master)](https://travis-ci.org/A2-Collaboration-dev/APLCON)
 [![Codecov status master branch](https://codecov.io/github/A2-Collaboration-dev/APLCON/coverage.svg?branch=master)](https://codecov.io/github/A2-Collaboration-dev/APLCON?branch=master)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51382.svg)](http://dx.doi.org/10.5281/zenodo.51382)
